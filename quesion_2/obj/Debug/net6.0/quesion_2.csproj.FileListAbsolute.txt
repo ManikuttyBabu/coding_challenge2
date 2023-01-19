@@ -1,0 +1,15 @@
+C:\Users\manikuutty.babu\source\repos\quesion_2\quesion_2\bin\Debug\net6.0\quesion_2.exe
+C:\Users\manikuutty.babu\source\repos\quesion_2\quesion_2\bin\Debug\net6.0\quesion_2.deps.json
+C:\Users\manikuutty.babu\source\repos\quesion_2\quesion_2\bin\Debug\net6.0\quesion_2.runtimeconfig.json
+C:\Users\manikuutty.babu\source\repos\quesion_2\quesion_2\bin\Debug\net6.0\quesion_2.dll
+C:\Users\manikuutty.babu\source\repos\quesion_2\quesion_2\bin\Debug\net6.0\quesion_2.pdb
+C:\Users\manikuutty.babu\source\repos\quesion_2\quesion_2\obj\Debug\net6.0\quesion_2.csproj.AssemblyReference.cache
+C:\Users\manikuutty.babu\source\repos\quesion_2\quesion_2\obj\Debug\net6.0\quesion_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manikuutty.babu\source\repos\quesion_2\quesion_2\obj\Debug\net6.0\quesion_2.AssemblyInfoInputs.cache
+C:\Users\manikuutty.babu\source\repos\quesion_2\quesion_2\obj\Debug\net6.0\quesion_2.AssemblyInfo.cs
+C:\Users\manikuutty.babu\source\repos\quesion_2\quesion_2\obj\Debug\net6.0\quesion_2.csproj.CoreCompileInputs.cache
+C:\Users\manikuutty.babu\source\repos\quesion_2\quesion_2\obj\Debug\net6.0\quesion_2.dll
+C:\Users\manikuutty.babu\source\repos\quesion_2\quesion_2\obj\Debug\net6.0\refint\quesion_2.dll
+C:\Users\manikuutty.babu\source\repos\quesion_2\quesion_2\obj\Debug\net6.0\quesion_2.pdb
+C:\Users\manikuutty.babu\source\repos\quesion_2\quesion_2\obj\Debug\net6.0\quesion_2.genruntimeconfig.cache
+C:\Users\manikuutty.babu\source\repos\quesion_2\quesion_2\obj\Debug\net6.0\ref\quesion_2.dll
